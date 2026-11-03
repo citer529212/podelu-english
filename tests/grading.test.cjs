@@ -53,3 +53,7 @@ test('invalid criterion scores cannot enter totals',()=>{
  assert.throws(()=>F.assess('ege-speaking-1',{P:.5}));
  for(const r of Object.values(F.rubrics))assert.equal(r.criteria.reduce((n,c)=>n+c.max,0),r.max);
 });
+
+test('word cutoff preserves punctuation after the last evaluated word',()=>{
+ const text=words(139)+' final. '+words(20);const result=F.wordCheck(text,'ege-writing-37');assert.equal(result.trimmed,true);assert.ok(result.evaluatedText.trimEnd().endsWith('final.'));assert.equal(F.wordTokens(result.evaluatedText).length,140);
+});
