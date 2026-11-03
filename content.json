@@ -1,0 +1,2975 @@
+{
+  "version": "2026-11-04",
+  "items": [
+    {
+      "id": "fipi-ege-corinth",
+      "exam": "ege",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "Ancient Corinth",
+      "context": "",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "19",
+          "text": "Corinth was an ancient Greek city state. ___ in southern part of Greece, this vibrant city was a prosperous trade centre that had one of the best fleets of its times.",
+          "base": "SITUATE",
+          "answers": [
+            "situated"
+          ],
+          "why": "Оборот с причастием прошедшего времени: situated."
+        },
+        {
+          "label": "20",
+          "text": "It is even considered to have fought the ___ naval battle on record.",
+          "base": "ONE",
+          "answers": [
+            "first"
+          ],
+          "why": "Порядковое числительное first."
+        },
+        {
+          "label": "21",
+          "text": "The city ___ around the 8th century BC and became famous because of its high-quality pottery. Apart from it, Corinth exported stone and bronzeware. It is important to mention that arts and culture flourished in the city, too.",
+          "base": "FOUND",
+          "answers": [
+            "was founded"
+          ],
+          "why": "Город был основан: was founded, пассивный залог."
+        },
+        {
+          "label": "22",
+          "text": "Many poets, playwrights, and architects lived in it. The Corinthian Order quickly ___ a distinctive feature of the Greek architectural style and is still used in modern buildings.",
+          "base": "BECOME",
+          "answers": [
+            "became"
+          ],
+          "why": "Завершённое прошлое: become → became."
+        },
+        {
+          "label": "23",
+          "text": "In 146 BC Corinth was destroyed by the Romans only to be rebuilt under the patronage of Julius Caesar as a Roman colony. Today the ancient city lies in ruins. Since 1896 archeologists ___ there, finding various elements of ancient buildings and constructions each year.",
+          "base": "WORK",
+          "answers": [
+            "have worked",
+            "have been working"
+          ],
+          "why": "Оба ответа указаны в ключе демоверсии: действие продолжается с 1896 года."
+        },
+        {
+          "label": "24",
+          "text": "Tourists enjoy ___ at what is left from once a beautiful ancient city state.",
+          "base": "LOOK",
+          "answers": [
+            "looking"
+          ],
+          "why": "После enjoy — форма на -ing."
+        }
+      ]
+    },
+    {
+      "id": "fipi-ege-hermitage",
+      "exam": "ege",
+      "block": "words",
+      "type": "gaps",
+      "title": "The State Hermitage Museum",
+      "context": "",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "25",
+          "text": "The State Hermitage Museum is located in Saint Petersburg, Russia. It is ___ one of the greatest and most visited museums of the world.",
+          "base": "CERTAIN",
+          "answers": [
+            "certainly"
+          ],
+          "why": "Нужно наречие certainly."
+        },
+        {
+          "label": "26",
+          "text": "Catherine the Great founded it in 1764, but it was opened to the public in 1852 only. Now it can boast a huge ___ of over 3 million works of art.",
+          "base": "COLLECT",
+          "answers": [
+            "collection"
+          ],
+          "why": "Существительное collection обозначает собрание работ."
+        },
+        {
+          "label": "27",
+          "text": "It may be an ___ task to see all the masterpieces kept in the museum – it will take a person about eleven years to look at each of the museum’s exhibits for just one minute.",
+          "base": "POSSIBLE",
+          "answers": [
+            "impossible"
+          ],
+          "why": "Контекст требует отрицательного значения."
+        },
+        {
+          "label": "28",
+          "text": "However, the Hermitage is interesting not only because of the ___ paintings kept there.",
+          "base": "PRICE",
+          "answers": [
+            "priceless"
+          ],
+          "why": "Priceless — бесценный, не priceful."
+        },
+        {
+          "label": "29",
+          "text": "The Winter Palace used to be the official ___ for the Romanov Tsars, so it is a beautiful construction – one of the greatest symbols of imperial Russia.",
+          "base": "RESIDE",
+          "answers": [
+            "residence"
+          ],
+          "why": "Нужно существительное residence."
+        }
+      ]
+    },
+    {
+      "id": "fipi-oge-bolshoi",
+      "exam": "oge",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "The Bolshoi Theatre",
+      "context": "",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "20",
+          "text": "It was a great day yesterday. My friends and I ___ to see a performance at the Bolshoi Theatre.",
+          "base": "GO",
+          "answers": [
+            "went"
+          ],
+          "why": "Вторая форма go: went."
+        },
+        {
+          "label": "21",
+          "text": "You certainly know that the Bolshoi Theatre is the ___ theatre in Russia and probably in the world.",
+          "base": "FAMOUS",
+          "answers": [
+            "most famous"
+          ],
+          "why": "Превосходная степень: most famous."
+        },
+        {
+          "label": "22",
+          "text": "But not everyone ___ the history of the Bolshoi Theatre.",
+          "base": "KNOW",
+          "answers": [
+            "knows"
+          ],
+          "why": "Everyone согласуется с единственным числом."
+        },
+        {
+          "label": "23",
+          "text": "According to historical documents, it ___ in March 1776 when Prince Pyotr Urusov was granted Royal permission to build a public theatre in Moscow.",
+          "base": "BEGIN",
+          "answers": [
+            "began"
+          ],
+          "why": "Begin → began."
+        },
+        {
+          "label": "24",
+          "text": "Catherine II, Empress of Russia, was fond of arts. She ___ having a new theatre in her country.",
+          "base": "NOT MIND",
+          "answers": [
+            "did not mind",
+            "didn’t mind"
+          ],
+          "why": "Отрицание в Past Simple: did not mind."
+        },
+        {
+          "label": "25",
+          "text": "The original building of the theatre had a hall with almost 1,000 seats, a stage and an orchestra pit. Directly over the stage there ___ boxes where the most noble fans of the theatre had their seats.",
+          "base": "BE",
+          "answers": [
+            "were"
+          ],
+          "why": "Boxes — множественное число, прошлое время."
+        },
+        {
+          "label": "26",
+          "text": "The theatre has changed several times during ___ history.",
+          "base": "IT",
+          "answers": [
+            "its"
+          ],
+          "why": "Притяжательное its перед существительным."
+        },
+        {
+          "label": "27",
+          "text": "The building we can see today opened in 1825. It ___ by architect Andrei Mikhailov who was also the architect of the Maly Theatre.",
+          "base": "DESIGN",
+          "answers": [
+            "was designed"
+          ],
+          "why": "Было спроектировано: was designed."
+        },
+        {
+          "label": "28",
+          "text": "Since that time, the building has been rebuilt and renovated several times. Now it looks beautiful from the inside and outside. If I ___ the opportunity to go there more often, I would do it every week.",
+          "base": "HAVE",
+          "answers": [
+            "had"
+          ],
+          "why": "Условное предложение о нереальной ситуации: if + had."
+        }
+      ]
+    },
+    {
+      "id": "fipi-oge-chocolate",
+      "exam": "oge",
+      "block": "words",
+      "type": "gaps",
+      "title": "Chocolate and mood",
+      "context": "",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "29",
+          "text": "There are lots of products that help us fight bad moods and depression. If you feel down and ___, just get a bar of dark chocolate from the fridge.",
+          "base": "SLEEP",
+          "answers": [
+            "sleepy"
+          ],
+          "why": "Sleepy — сонный."
+        },
+        {
+          "label": "30",
+          "text": "Chocolate will improve your mood and you’ll feel ___ and happy again.",
+          "base": "CHEER",
+          "answers": [
+            "cheerful"
+          ],
+          "why": "Прилагательное cheerful."
+        },
+        {
+          "label": "31",
+          "text": "This ___ is often used in chocolate adverts.",
+          "base": "INFORM",
+          "answers": [
+            "information"
+          ],
+          "why": "Неисчисляемое information."
+        },
+        {
+          "label": "32",
+          "text": "Unfortunately, we can’t use this method too often. The positive effect does not last long. Meanwhile chocolate is not ___ food.",
+          "base": "HARM",
+          "answers": [
+            "harmless"
+          ],
+          "why": "Harmless — безвредный; not harmless соответствует продолжению."
+        },
+        {
+          "label": "33",
+          "text": "It contains fat and sugar which can make you overweight. Some people may also be allergic to chocolate and it can affect their ___, causing skin problems.",
+          "base": "APPEAR",
+          "answers": [
+            "appearance"
+          ],
+          "why": "Существительное appearance."
+        },
+        {
+          "label": "34",
+          "text": "The alternative and ___ safe method to fight depression is doing sport. It can be recommended to everyone!",
+          "base": "ABSOLUTE",
+          "answers": [
+            "absolutely"
+          ],
+          "why": "Наречие absolutely перед safe."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-grammar-0",
+      "exam": "ege",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "A school garden",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "19",
+          "text": "Last spring our class ___ a garden behind the school.",
+          "base": "START",
+          "answers": [
+            "started"
+          ],
+          "why": "Завершённое действие прошлой весной."
+        },
+        {
+          "label": "20",
+          "text": "By the time the first visitors arrived, we ___ all the signs.",
+          "base": "FINISH",
+          "answers": [
+            "had finished"
+          ],
+          "why": "Завершение произошло раньше прибытия."
+        },
+        {
+          "label": "21",
+          "text": "The wooden gate ___ by our art teacher last year.",
+          "base": "PAINT",
+          "answers": [
+            "was painted"
+          ],
+          "why": "Гейт испытывает действие: прошлый пассив."
+        },
+        {
+          "label": "22",
+          "text": "While I was watering the flowers, my friends ___ the paths.",
+          "base": "CLEAN",
+          "answers": [
+            "were cleaning"
+          ],
+          "why": "Одновременный процесс в прошлом."
+        },
+        {
+          "label": "23",
+          "text": "Since September, our teacher ___ twelve gardening workshops.",
+          "base": "ORGANISE",
+          "answers": [
+            "has organised",
+            "has organized"
+          ],
+          "why": "Указано число завершённых событий с September."
+        },
+        {
+          "label": "24",
+          "text": "We all enjoy ___ fresh vegetables at lunchtime.",
+          "base": "EAT",
+          "answers": [
+            "eating"
+          ],
+          "why": "После enjoy — -ing."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-grammar-1",
+      "exam": "ege",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "The science club",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "19",
+          "text": "Our science club ___ a new laboratory last month.",
+          "base": "GET",
+          "answers": [
+            "got"
+          ],
+          "why": "Get → got."
+        },
+        {
+          "label": "20",
+          "text": "The equipment ___ by a local company in 2024.",
+          "base": "DONATE",
+          "answers": [
+            "was donated"
+          ],
+          "why": "Прошедшее время, пассивный залог."
+        },
+        {
+          "label": "21",
+          "text": "I was writing a report while my partner ___ the results.",
+          "base": "CHECK",
+          "answers": [
+            "was checking"
+          ],
+          "why": "Параллельные процессы в прошлом."
+        },
+        {
+          "label": "22",
+          "text": "By the time the lesson ended, we ___ the experiment.",
+          "base": "COMPLETE",
+          "answers": [
+            "had completed"
+          ],
+          "why": "Эксперимент завершился раньше окончания урока."
+        },
+        {
+          "label": "23",
+          "text": "If you heat ice, it ___.",
+          "base": "MELT",
+          "answers": [
+            "melts"
+          ],
+          "why": "Общее закономерное явление: Present Simple."
+        },
+        {
+          "label": "24",
+          "text": "This is the ___ project our club has ever done.",
+          "base": "DIFFICULT",
+          "answers": [
+            "most difficult"
+          ],
+          "why": "Превосходная степень."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-grammar-2",
+      "exam": "ege",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "A museum visit",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "19",
+          "text": "Yesterday we ___ a small local museum.",
+          "base": "VISIT",
+          "answers": [
+            "visited"
+          ],
+          "why": "Past Simple."
+        },
+        {
+          "label": "20",
+          "text": "The museum ___ in 1985.",
+          "base": "OPEN",
+          "answers": [
+            "was opened"
+          ],
+          "why": "Был открыт: was opened."
+        },
+        {
+          "label": "21",
+          "text": "By the time the guide arrived, we ___ our tickets.",
+          "base": "BUY",
+          "answers": [
+            "had bought"
+          ],
+          "why": "Покупка предшествует приходу гида."
+        },
+        {
+          "label": "22",
+          "text": "We saw several young ___ drawing a painting.",
+          "base": "CHILD",
+          "answers": [
+            "children"
+          ],
+          "why": "Неправильное множественное число."
+        },
+        {
+          "label": "23",
+          "text": "This room is ___ than the entrance hall.",
+          "base": "SMALL",
+          "answers": [
+            "smaller"
+          ],
+          "why": "Сравнительная степень."
+        },
+        {
+          "label": "24",
+          "text": "The guide asked us to look at the picture ___.",
+          "base": "WE",
+          "answers": [
+            "ourselves"
+          ],
+          "why": "Возвратная форма для we."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-grammar-3",
+      "exam": "ege",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "The school newspaper",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "19",
+          "text": "Our first school newspaper ___ in 2022.",
+          "base": "PUBLISH",
+          "answers": [
+            "was published"
+          ],
+          "why": "Газета была опубликована."
+        },
+        {
+          "label": "20",
+          "text": "Last Tuesday, I ___ the captain of the school team.",
+          "base": "INTERVIEW",
+          "answers": [
+            "interviewed"
+          ],
+          "why": "Past Simple с конкретным днём в прошлом."
+        },
+        {
+          "label": "21",
+          "text": "While I was taking notes, the photographer ___ pictures.",
+          "base": "TAKE",
+          "answers": [
+            "was taking"
+          ],
+          "why": "Одновременное действие в процессе."
+        },
+        {
+          "label": "22",
+          "text": "By Friday evening, we ___ every page.",
+          "base": "CHECK",
+          "answers": [
+            "had checked"
+          ],
+          "why": "К моменту пятницы проверка завершилась."
+        },
+        {
+          "label": "23",
+          "text": "My sister enjoys ___ articles about travel.",
+          "base": "WRITE",
+          "answers": [
+            "writing"
+          ],
+          "why": "Enjoy + -ing."
+        },
+        {
+          "label": "24",
+          "text": "So far this term, our newspaper ___ three prizes.",
+          "base": "WIN",
+          "answers": [
+            "has won"
+          ],
+          "why": "So far связывает прошлый результат с настоящим."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-words-0",
+      "exam": "ege",
+      "block": "words",
+      "type": "gaps",
+      "title": "Volunteering",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "25",
+          "text": "Our town has a new ___ group that helps older people.",
+          "base": "VOLUNTEER",
+          "answers": [
+            "voluntary"
+          ],
+          "why": "Прилагательное voluntary."
+        },
+        {
+          "label": "26",
+          "text": "The group gives useful ___ about local services.",
+          "base": "INFORM",
+          "answers": [
+            "information"
+          ],
+          "why": "Неисчисляемое существительное."
+        },
+        {
+          "label": "27",
+          "text": "The coordinator explains everything ___.",
+          "base": "CLEAR",
+          "answers": [
+            "clearly"
+          ],
+          "why": "Наречие описывает explains."
+        },
+        {
+          "label": "28",
+          "text": "Her ___ makes everyone feel welcome.",
+          "base": "KIND",
+          "answers": [
+            "kindness"
+          ],
+          "why": "Существительное kindness."
+        },
+        {
+          "label": "29",
+          "text": "We were tired but ___ after the event.",
+          "base": "CHEER",
+          "answers": [
+            "cheerful"
+          ],
+          "why": "Прилагательное cheerful."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-words-1",
+      "exam": "ege",
+      "block": "words",
+      "type": "gaps",
+      "title": "Learning together",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "25",
+          "text": "The workshop was both useful and ___.",
+          "base": "ENJOY",
+          "answers": [
+            "enjoyable"
+          ],
+          "why": "Прилагательное enjoyable."
+        },
+        {
+          "label": "26",
+          "text": "We had an interesting ___ about study habits.",
+          "base": "DISCUSS",
+          "answers": [
+            "discussion"
+          ],
+          "why": "Существительное discussion."
+        },
+        {
+          "label": "27",
+          "text": "Everyone could express their ideas ___.",
+          "base": "FREE",
+          "answers": [
+            "freely"
+          ],
+          "why": "Наречие freely."
+        },
+        {
+          "label": "28",
+          "text": "The teacher gave a clear ___ of the task.",
+          "base": "EXPLAIN",
+          "answers": [
+            "explanation"
+          ],
+          "why": "Существительное explanation."
+        },
+        {
+          "label": "29",
+          "text": "I felt much more ___ after the lesson.",
+          "base": "CONFIDENCE",
+          "answers": [
+            "confident"
+          ],
+          "why": "Прилагательное confident."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-words-2",
+      "exam": "ege",
+      "block": "words",
+      "type": "gaps",
+      "title": "A green town",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "25",
+          "text": "The river used to be badly polluted, but now it looks ___.",
+          "base": "BEAUTY",
+          "answers": [
+            "beautiful"
+          ],
+          "why": "Прилагательное beautiful."
+        },
+        {
+          "label": "26",
+          "text": "A local ___ helped organise a clean-up.",
+          "base": "ART",
+          "answers": [
+            "artist"
+          ],
+          "why": "Название человека artist."
+        },
+        {
+          "label": "27",
+          "text": "The event received an ___ amount of public support.",
+          "base": "IMPRESS",
+          "answers": [
+            "impressive"
+          ],
+          "why": "Прилагательное impressive."
+        },
+        {
+          "label": "28",
+          "text": "Some rubbish was ___ to remove without special tools.",
+          "base": "POSSIBLE",
+          "answers": [
+            "impossible"
+          ],
+          "why": "Смысл — невозможно."
+        },
+        {
+          "label": "29",
+          "text": "The team worked ___ to protect the river.",
+          "base": "CARE",
+          "answers": [
+            "carefully"
+          ],
+          "why": "Наречие carefully."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-grammar-0",
+      "exam": "oge",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "A school garden",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "20",
+          "text": "Last spring our class ___ a garden behind the school.",
+          "base": "START",
+          "answers": [
+            "started"
+          ],
+          "why": "Завершённое действие прошлой весной."
+        },
+        {
+          "label": "21",
+          "text": "By the time the first visitors arrived, we ___ all the signs.",
+          "base": "FINISH",
+          "answers": [
+            "had finished"
+          ],
+          "why": "Завершение произошло раньше прибытия."
+        },
+        {
+          "label": "22",
+          "text": "The wooden gate ___ by our art teacher last year.",
+          "base": "PAINT",
+          "answers": [
+            "was painted"
+          ],
+          "why": "Гейт испытывает действие: прошлый пассив."
+        },
+        {
+          "label": "23",
+          "text": "While I was watering the flowers, my friends ___ the paths.",
+          "base": "CLEAN",
+          "answers": [
+            "were cleaning"
+          ],
+          "why": "Одновременный процесс в прошлом."
+        },
+        {
+          "label": "24",
+          "text": "Since September, our teacher ___ twelve gardening workshops.",
+          "base": "ORGANISE",
+          "answers": [
+            "has organised",
+            "has organized"
+          ],
+          "why": "Указано число завершённых событий с September."
+        },
+        {
+          "label": "25",
+          "text": "We all enjoy ___ fresh vegetables at lunchtime.",
+          "base": "EAT",
+          "answers": [
+            "eating"
+          ],
+          "why": "После enjoy — -ing."
+        },
+        {
+          "label": "26",
+          "text": "Our group has two teachers. We often ask ___ for advice.",
+          "base": "THEY",
+          "answers": [
+            "them"
+          ],
+          "why": "После ask нужно объектное местоимение."
+        },
+        {
+          "label": "27",
+          "text": "This year our project is ___ than last year’s.",
+          "base": "GOOD",
+          "answers": [
+            "better"
+          ],
+          "why": "Неправильная сравнительная степень."
+        },
+        {
+          "label": "28",
+          "text": "If I had more free time, I ___ the club more often.",
+          "base": "VISIT",
+          "answers": [
+            "would visit"
+          ],
+          "why": "Главная часть второго условного предложения."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-grammar-1",
+      "exam": "oge",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "The science club",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "20",
+          "text": "Our science club ___ a new laboratory last month.",
+          "base": "GET",
+          "answers": [
+            "got"
+          ],
+          "why": "Get → got."
+        },
+        {
+          "label": "21",
+          "text": "The equipment ___ by a local company in 2024.",
+          "base": "DONATE",
+          "answers": [
+            "was donated"
+          ],
+          "why": "Прошедшее время, пассивный залог."
+        },
+        {
+          "label": "22",
+          "text": "I was writing a report while my partner ___ the results.",
+          "base": "CHECK",
+          "answers": [
+            "was checking"
+          ],
+          "why": "Параллельные процессы в прошлом."
+        },
+        {
+          "label": "23",
+          "text": "By the time the lesson ended, we ___ the experiment.",
+          "base": "COMPLETE",
+          "answers": [
+            "had completed"
+          ],
+          "why": "Эксперимент завершился раньше окончания урока."
+        },
+        {
+          "label": "24",
+          "text": "If you heat ice, it ___.",
+          "base": "MELT",
+          "answers": [
+            "melts"
+          ],
+          "why": "Общее закономерное явление: Present Simple."
+        },
+        {
+          "label": "25",
+          "text": "This is the ___ project our club has ever done.",
+          "base": "DIFFICULT",
+          "answers": [
+            "most difficult"
+          ],
+          "why": "Превосходная степень."
+        },
+        {
+          "label": "26",
+          "text": "Our group has two teachers. We often ask ___ for advice.",
+          "base": "THEY",
+          "answers": [
+            "them"
+          ],
+          "why": "После ask нужно объектное местоимение."
+        },
+        {
+          "label": "27",
+          "text": "This year our project is ___ than last year’s.",
+          "base": "GOOD",
+          "answers": [
+            "better"
+          ],
+          "why": "Неправильная сравнительная степень."
+        },
+        {
+          "label": "28",
+          "text": "If I had more free time, I ___ the club more often.",
+          "base": "VISIT",
+          "answers": [
+            "would visit"
+          ],
+          "why": "Главная часть второго условного предложения."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-grammar-2",
+      "exam": "oge",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "A museum visit",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "20",
+          "text": "Yesterday we ___ a small local museum.",
+          "base": "VISIT",
+          "answers": [
+            "visited"
+          ],
+          "why": "Past Simple."
+        },
+        {
+          "label": "21",
+          "text": "The museum ___ in 1985.",
+          "base": "OPEN",
+          "answers": [
+            "was opened"
+          ],
+          "why": "Был открыт: was opened."
+        },
+        {
+          "label": "22",
+          "text": "By the time the guide arrived, we ___ our tickets.",
+          "base": "BUY",
+          "answers": [
+            "had bought"
+          ],
+          "why": "Покупка предшествует приходу гида."
+        },
+        {
+          "label": "23",
+          "text": "We saw several young ___ drawing a painting.",
+          "base": "CHILD",
+          "answers": [
+            "children"
+          ],
+          "why": "Неправильное множественное число."
+        },
+        {
+          "label": "24",
+          "text": "This room is ___ than the entrance hall.",
+          "base": "SMALL",
+          "answers": [
+            "smaller"
+          ],
+          "why": "Сравнительная степень."
+        },
+        {
+          "label": "25",
+          "text": "The guide asked us to look at the picture ___.",
+          "base": "WE",
+          "answers": [
+            "ourselves"
+          ],
+          "why": "Возвратная форма для we."
+        },
+        {
+          "label": "26",
+          "text": "Our group has two teachers. We often ask ___ for advice.",
+          "base": "THEY",
+          "answers": [
+            "them"
+          ],
+          "why": "После ask нужно объектное местоимение."
+        },
+        {
+          "label": "27",
+          "text": "This year our project is ___ than last year’s.",
+          "base": "GOOD",
+          "answers": [
+            "better"
+          ],
+          "why": "Неправильная сравнительная степень."
+        },
+        {
+          "label": "28",
+          "text": "If I had more free time, I ___ the club more often.",
+          "base": "VISIT",
+          "answers": [
+            "would visit"
+          ],
+          "why": "Главная часть второго условного предложения."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-grammar-3",
+      "exam": "oge",
+      "block": "grammar",
+      "type": "gaps",
+      "title": "The school newspaper",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "20",
+          "text": "Our first school newspaper ___ in 2022.",
+          "base": "PUBLISH",
+          "answers": [
+            "was published"
+          ],
+          "why": "Газета была опубликована."
+        },
+        {
+          "label": "21",
+          "text": "Last Tuesday, I ___ the captain of the school team.",
+          "base": "INTERVIEW",
+          "answers": [
+            "interviewed"
+          ],
+          "why": "Past Simple с конкретным днём в прошлом."
+        },
+        {
+          "label": "22",
+          "text": "While I was taking notes, the photographer ___ pictures.",
+          "base": "TAKE",
+          "answers": [
+            "was taking"
+          ],
+          "why": "Одновременное действие в процессе."
+        },
+        {
+          "label": "23",
+          "text": "By Friday evening, we ___ every page.",
+          "base": "CHECK",
+          "answers": [
+            "had checked"
+          ],
+          "why": "К моменту пятницы проверка завершилась."
+        },
+        {
+          "label": "24",
+          "text": "My sister enjoys ___ articles about travel.",
+          "base": "WRITE",
+          "answers": [
+            "writing"
+          ],
+          "why": "Enjoy + -ing."
+        },
+        {
+          "label": "25",
+          "text": "So far this term, our newspaper ___ three prizes.",
+          "base": "WIN",
+          "answers": [
+            "has won"
+          ],
+          "why": "So far связывает прошлый результат с настоящим."
+        },
+        {
+          "label": "26",
+          "text": "Our group has two teachers. We often ask ___ for advice.",
+          "base": "THEY",
+          "answers": [
+            "them"
+          ],
+          "why": "После ask нужно объектное местоимение."
+        },
+        {
+          "label": "27",
+          "text": "This year our project is ___ than last year’s.",
+          "base": "GOOD",
+          "answers": [
+            "better"
+          ],
+          "why": "Неправильная сравнительная степень."
+        },
+        {
+          "label": "28",
+          "text": "If I had more free time, I ___ the club more often.",
+          "base": "VISIT",
+          "answers": [
+            "would visit"
+          ],
+          "why": "Главная часть второго условного предложения."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-words-0",
+      "exam": "oge",
+      "block": "words",
+      "type": "gaps",
+      "title": "Volunteering",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "29",
+          "text": "Our town has a new ___ group that helps older people.",
+          "base": "VOLUNTEER",
+          "answers": [
+            "voluntary"
+          ],
+          "why": "Прилагательное voluntary."
+        },
+        {
+          "label": "30",
+          "text": "The group gives useful ___ about local services.",
+          "base": "INFORM",
+          "answers": [
+            "information"
+          ],
+          "why": "Неисчисляемое существительное."
+        },
+        {
+          "label": "31",
+          "text": "The coordinator explains everything ___.",
+          "base": "CLEAR",
+          "answers": [
+            "clearly"
+          ],
+          "why": "Наречие описывает explains."
+        },
+        {
+          "label": "32",
+          "text": "Her ___ makes everyone feel welcome.",
+          "base": "KIND",
+          "answers": [
+            "kindness"
+          ],
+          "why": "Существительное kindness."
+        },
+        {
+          "label": "33",
+          "text": "We were tired but ___ after the event.",
+          "base": "CHEER",
+          "answers": [
+            "cheerful"
+          ],
+          "why": "Прилагательное cheerful."
+        },
+        {
+          "label": "34",
+          "text": "The volunteers worked ___ throughout the day.",
+          "base": "PATIENT",
+          "answers": [
+            "patiently"
+          ],
+          "why": "Наречие patiently."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-words-1",
+      "exam": "oge",
+      "block": "words",
+      "type": "gaps",
+      "title": "Learning together",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "29",
+          "text": "The workshop was both useful and ___.",
+          "base": "ENJOY",
+          "answers": [
+            "enjoyable"
+          ],
+          "why": "Прилагательное enjoyable."
+        },
+        {
+          "label": "30",
+          "text": "We had an interesting ___ about study habits.",
+          "base": "DISCUSS",
+          "answers": [
+            "discussion"
+          ],
+          "why": "Существительное discussion."
+        },
+        {
+          "label": "31",
+          "text": "Everyone could express their ideas ___.",
+          "base": "FREE",
+          "answers": [
+            "freely"
+          ],
+          "why": "Наречие freely."
+        },
+        {
+          "label": "32",
+          "text": "The teacher gave a clear ___ of the task.",
+          "base": "EXPLAIN",
+          "answers": [
+            "explanation"
+          ],
+          "why": "Существительное explanation."
+        },
+        {
+          "label": "33",
+          "text": "I felt much more ___ after the lesson.",
+          "base": "CONFIDENCE",
+          "answers": [
+            "confident"
+          ],
+          "why": "Прилагательное confident."
+        },
+        {
+          "label": "34",
+          "text": "Regular practice can make a real ___.",
+          "base": "DIFFER",
+          "answers": [
+            "difference"
+          ],
+          "why": "Существительное difference."
+        }
+      ]
+    },
+    {
+      "id": "author-oge-words-2",
+      "exam": "oge",
+      "block": "words",
+      "type": "gaps",
+      "title": "A green town",
+      "context": "",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "29",
+          "text": "The river used to be badly polluted, but now it looks ___.",
+          "base": "BEAUTY",
+          "answers": [
+            "beautiful"
+          ],
+          "why": "Прилагательное beautiful."
+        },
+        {
+          "label": "30",
+          "text": "A local ___ helped organise a clean-up.",
+          "base": "ART",
+          "answers": [
+            "artist"
+          ],
+          "why": "Название человека artist."
+        },
+        {
+          "label": "31",
+          "text": "The event received an ___ amount of public support.",
+          "base": "IMPRESS",
+          "answers": [
+            "impressive"
+          ],
+          "why": "Прилагательное impressive."
+        },
+        {
+          "label": "32",
+          "text": "Some rubbish was ___ to remove without special tools.",
+          "base": "POSSIBLE",
+          "answers": [
+            "impossible"
+          ],
+          "why": "Смысл — невозможно."
+        },
+        {
+          "label": "33",
+          "text": "The team worked ___ to protect the river.",
+          "base": "CARE",
+          "answers": [
+            "carefully"
+          ],
+          "why": "Наречие carefully."
+        },
+        {
+          "label": "34",
+          "text": "The clean-up was a great ___.",
+          "base": "SUCCEED",
+          "answers": [
+            "success"
+          ],
+          "why": "Существительное success."
+        }
+      ]
+    },
+    {
+      "id": "author-ege-headings",
+      "exam": "ege",
+      "block": "reading",
+      "type": "match",
+      "title": "Find the main idea",
+      "text": "A. The club meets every Wednesday to repair broken household objects. Last month, students fixed lamps and chairs that would otherwise have been thrown away. Visitors bring an item and learn to repair it with help from volunteers.\nB. You do not need to buy expensive equipment to enjoy our group. Members exchange books and discuss one chapter each week. Anyone can suggest the next title, and new readers are welcome even if they have not finished the book.\nC. Our volunteers visit a local animal shelter on Saturdays. They prepare food, clean the cages and play with the dogs. Before starting, everyone attends a short safety session led by the shelter staff.\nD. Members spend an hour outdoors before school, observing local birds. They keep a shared record of what they see, including the place and the weather. The records help scientists understand how the area changes through the seasons.\nE. The group turns unused land into a vegetable garden. Members learn when to plant seeds and how to save water. Part of the harvest goes to the school kitchen, while the rest is donated to neighbours.\nF. Our members produce a monthly programme for the school radio. They choose topics, interview guests and edit recordings. The most important rule is to check every fact before a story is broadcast.\nG. This club helps pupils practise conversations in other languages. Instead of following a textbook, students play short scenes such as asking for directions. Mistakes are discussed after the conversation, so speakers are not interrupted.",
+      "options": [
+        "Growing food together",
+        "Learning through conversation",
+        "Saving things from the bin",
+        "Helping animals safely",
+        "Creating reliable school news",
+        "Sharing the pleasure of reading",
+        "Recording changes in nature",
+        "Competing for a sports prize"
+      ],
+      "key": "3647152",
+      "max": 3,
+      "number": 10,
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "why": "Смысловые опоры: A repair → 3; B books → 6; C shelter → 4; D records/birds → 7; E vegetable garden → 1; F radio/fact checking → 5; G conversations → 2.",
+      "shortened": true
+    },
+    {
+      "id": "author-oge-headings",
+      "exam": "oge",
+      "block": "reading",
+      "type": "match",
+      "title": "Find the main idea",
+      "text": "A. The club meets every Wednesday to repair broken household objects. Last month, students fixed lamps and chairs that would otherwise have been thrown away. Visitors bring an item and learn to repair it with help from volunteers.\nB. You do not need to buy expensive equipment to enjoy our group. Members exchange books and discuss one chapter each week. Anyone can suggest the next title, and new readers are welcome even if they have not finished the book.\nC. Our volunteers visit a local animal shelter on Saturdays. They prepare food, clean the cages and play with the dogs. Before starting, everyone attends a short safety session led by the shelter staff.\nD. Members spend an hour outdoors before school, observing local birds. They keep a shared record of what they see, including the place and the weather. The records help scientists understand how the area changes through the seasons.\nE. The group turns unused land into a vegetable garden. Members learn when to plant seeds and how to save water. Part of the harvest goes to the school kitchen, while the rest is donated to neighbours.\nF. Our members produce a monthly programme for the school radio. They choose topics, interview guests and edit recordings. The most important rule is to check every fact before a story is broadcast.",
+      "options": [
+        "Growing food together",
+        "Learning through conversation",
+        "Saving things from the bin",
+        "Helping animals safely",
+        "Creating reliable school news",
+        "Sharing the pleasure of reading",
+        "Recording changes in nature",
+        "Competing for a sports prize"
+      ],
+      "key": "364715",
+      "max": 6,
+      "number": 12,
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "why": "Смысловые опоры: A repair → 3; B books → 6; C shelter → 4; D records/birds → 7; E vegetable garden → 1; F radio/fact checking → 5; G conversations → 2.",
+      "shortened": true
+    },
+    {
+      "id": "author-oge-reading-details",
+      "exam": "oge",
+      "block": "reading",
+      "type": "mc",
+      "title": "The book exchange",
+      "text": "In September, twelve pupils at Westbrook School decided to organise a book exchange. The school library already had enough textbooks, but students wanted to share books they had chosen themselves. They first suggested holding the event in the playground. However, the head teacher pointed out that rain could damage the books, so the group chose the assembly hall instead.\nAt first, the pupils planned to exchange one book for another. They soon realised that this would exclude students who had no suitable books to bring. To solve the problem, the organisers gave everyone a free ticket for their first book. Extra tickets could be earned by helping to arrange the room. No money was collected.\nThe event opened at half past ten on a Saturday. Although only twenty visitors were expected, more than fifty arrived before lunchtime. Several parents offered to donate books, but the organisers asked them to wait until the next event because the tables were already full. The most popular books were adventure stories; poetry attracted a smaller but enthusiastic group of readers.\nAfterwards, the students collected anonymous comments. Most visitors wanted another exchange, although some suggested a quieter corner for discussing books. The organisers decided to include one next time. They also planned a shelf for books in different languages. They did not agree on a date for the next exchange, as the school calendar had not yet been published.",
+      "questions": [
+        {
+          "label": "13",
+          "text": "The first event was held outside.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "It was held in the assembly hall, not the playground."
+        },
+        {
+          "label": "14",
+          "text": "Students without a book could still take part.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 0,
+          "why": "Everyone received a free ticket for their first book."
+        },
+        {
+          "label": "15",
+          "text": "Visitors paid for tickets.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "No money was collected."
+        },
+        {
+          "label": "16",
+          "text": "Exactly fifty people attended.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "More than fifty arrived before lunchtime."
+        },
+        {
+          "label": "17",
+          "text": "Adventure stories were more popular than poetry.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 0,
+          "why": "Adventure stories were the most popular."
+        },
+        {
+          "label": "18",
+          "text": "The quiet corner will contain comfortable sofas.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 2,
+          "why": "A quiet corner is planned; furniture is not described."
+        },
+        {
+          "label": "19",
+          "text": "The date of the next exchange had been agreed.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "They did not agree on a date."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-ege-reading-details",
+      "exam": "ege",
+      "block": "reading",
+      "type": "mc",
+      "title": "An exchange that includes everyone",
+      "text": "In September, twelve pupils at Westbrook School decided to organise a book exchange. The school library already had enough textbooks, but students wanted to share books they had chosen themselves. They first suggested holding the event in the playground. However, the head teacher pointed out that rain could damage the books, so the group chose the assembly hall instead.\nAt first, the pupils planned to exchange one book for another. They soon realised that this would exclude students who had no suitable books to bring. To solve the problem, the organisers gave everyone a free ticket for their first book. Extra tickets could be earned by helping to arrange the room. No money was collected.\nThe event opened at half past ten on a Saturday. Although only twenty visitors were expected, more than fifty arrived before lunchtime. Several parents offered to donate books, but the organisers asked them to wait until the next event because the tables were already full. The most popular books were adventure stories; poetry attracted a smaller but enthusiastic group of readers.\nAfterwards, the students collected anonymous comments. Most visitors wanted another exchange, although some suggested a quieter corner for discussing books. The organisers decided to include one next time. They also planned a shelf for books in different languages. They did not agree on a date for the next exchange, as the school calendar had not yet been published.",
+      "questions": [
+        {
+          "label": "12",
+          "text": "Why did the pupils organise the exchange?",
+          "options": [
+            "To replace missing textbooks",
+            "To share personally chosen books",
+            "To earn money for the library",
+            "To sell books to parents"
+          ],
+          "correct": 1,
+          "why": "The school had textbooks; students wanted books they had chosen themselves."
+        },
+        {
+          "label": "13",
+          "text": "Why was the original venue rejected?",
+          "options": [
+            "It was too small",
+            "It was already booked",
+            "Bad weather could damage the books",
+            "There was not enough light"
+          ],
+          "correct": 2,
+          "why": "Rain could damage the books in the playground."
+        },
+        {
+          "label": "14",
+          "text": "What problem did free tickets solve?",
+          "options": [
+            "Not everyone owned a suitable book",
+            "Students could not count the books",
+            "Too many parents wanted to help",
+            "There were no spare tables"
+          ],
+          "correct": 0,
+          "why": "Free tickets enabled students without suitable books to join."
+        },
+        {
+          "label": "15",
+          "text": "What happened before lunchtime?",
+          "options": [
+            "The exchange closed",
+            "More visitors arrived than expected",
+            "All the poetry was taken",
+            "The school announced another exchange"
+          ],
+          "correct": 1,
+          "why": "More than fifty arrived, while twenty were expected."
+        },
+        {
+          "label": "16",
+          "text": "Why were parents asked to wait?",
+          "options": [
+            "Their books were unsuitable",
+            "There were no more volunteers",
+            "The available display space was full",
+            "The event was only for teachers"
+          ],
+          "correct": 2,
+          "why": "The tables were already full."
+        },
+        {
+          "label": "17",
+          "text": "What does one in the final paragraph refer to?",
+          "options": [
+            "An anonymous comment",
+            "A quieter corner",
+            "A school calendar",
+            "A second ticket"
+          ],
+          "correct": 1,
+          "why": "The organisers decided to include a quiet corner."
+        },
+        {
+          "label": "18",
+          "text": "What remains uncertain at the end?",
+          "options": [
+            "Whether another exchange is wanted",
+            "Whether visitors enjoyed poetry",
+            "Whether the event made a profit",
+            "When the next exchange will happen"
+          ],
+          "correct": 3,
+          "why": "The school calendar and date were not yet settled."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "shortened": true
+    },
+    {
+      "id": "author-ege-lexis",
+      "exam": "ege",
+      "block": "lexis",
+      "type": "mc",
+      "title": "Community action · collocations",
+      "questions": [
+        {
+          "label": "30",
+          "text": "We decided to ___ a difference in our community.",
+          "options": [
+            "do",
+            "make",
+            "say",
+            "set"
+          ],
+          "correct": 1,
+          "why": "Make a difference — устойчивое сочетание."
+        },
+        {
+          "label": "31",
+          "text": "First, we had to ___ attention to safety.",
+          "options": [
+            "give",
+            "take",
+            "pay",
+            "bring"
+          ],
+          "correct": 2,
+          "why": "Pay attention to."
+        },
+        {
+          "label": "32",
+          "text": "The event was ___ because of heavy rain.",
+          "options": [
+            "called off",
+            "called on",
+            "called in",
+            "called out"
+          ],
+          "correct": 0,
+          "why": "Call off — отменить."
+        },
+        {
+          "label": "33",
+          "text": "We are looking forward to ___ again.",
+          "options": [
+            "meet",
+            "met",
+            "meeting",
+            "meets"
+          ],
+          "correct": 2,
+          "why": "После предлога to — -ing."
+        },
+        {
+          "label": "34",
+          "text": "The success of the event depends ___ teamwork.",
+          "options": [
+            "at",
+            "in",
+            "to",
+            "on"
+          ],
+          "correct": 3,
+          "why": "Depend on."
+        },
+        {
+          "label": "35",
+          "text": "The organiser ___ us to arrive early.",
+          "options": [
+            "said",
+            "told",
+            "spoke",
+            "talked"
+          ],
+          "correct": 1,
+          "why": "Tell somebody to do something."
+        },
+        {
+          "label": "36",
+          "text": "There were ___ people than we expected.",
+          "options": [
+            "less",
+            "little",
+            "fewer",
+            "much"
+          ],
+          "correct": 2,
+          "why": "Fewer — с исчисляемыми существительными."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true
+    },
+    {
+      "id": "author-oge-lexis",
+      "exam": "oge",
+      "block": "lexis",
+      "type": "mc",
+      "title": "Community action · collocations",
+      "questions": [
+        {
+          "label": "1",
+          "text": "We decided to ___ a difference in our community.",
+          "options": [
+            "do",
+            "make",
+            "say",
+            "set"
+          ],
+          "correct": 1,
+          "why": "Make a difference — устойчивое сочетание."
+        },
+        {
+          "label": "2",
+          "text": "First, we had to ___ attention to safety.",
+          "options": [
+            "give",
+            "take",
+            "pay",
+            "bring"
+          ],
+          "correct": 2,
+          "why": "Pay attention to."
+        },
+        {
+          "label": "3",
+          "text": "The event was ___ because of heavy rain.",
+          "options": [
+            "called off",
+            "called on",
+            "called in",
+            "called out"
+          ],
+          "correct": 0,
+          "why": "Call off — отменить."
+        },
+        {
+          "label": "4",
+          "text": "We are looking forward to ___ again.",
+          "options": [
+            "meet",
+            "met",
+            "meeting",
+            "meets"
+          ],
+          "correct": 2,
+          "why": "После предлога to — -ing."
+        },
+        {
+          "label": "5",
+          "text": "The success of the event depends ___ teamwork.",
+          "options": [
+            "at",
+            "in",
+            "to",
+            "on"
+          ],
+          "correct": 3,
+          "why": "Depend on."
+        },
+        {
+          "label": "6",
+          "text": "The organiser ___ us to arrive early.",
+          "options": [
+            "said",
+            "told",
+            "spoke",
+            "talked"
+          ],
+          "correct": 1,
+          "why": "Tell somebody to do something."
+        },
+        {
+          "label": "7",
+          "text": "There were ___ people than we expected.",
+          "options": [
+            "less",
+            "little",
+            "fewer",
+            "much"
+          ],
+          "correct": 2,
+          "why": "Fewer — с исчисляемыми существительными."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true
+    },
+    {
+      "id": "author-ege-audio-change",
+      "exam": "ege",
+      "block": "listening",
+      "type": "mc",
+      "title": "A changed plan",
+      "audio": "assets/audio/change.mp3",
+      "transcript": "We wanted to visit the castle on Friday, but it was closed for repairs. My sister suggested the museum, but I had been there before. In the end, we chose the botanical garden. It was raining in the morning, so we left home after lunch. We bought tickets online and enjoyed the warm greenhouses. Next week we may try the museum.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "Where did they finally go?",
+          "options": [
+            "The castle",
+            "The museum",
+            "The botanical garden"
+          ],
+          "correct": 2,
+          "why": "In the end, we chose the botanical garden."
+        },
+        {
+          "label": "2",
+          "text": "When did they leave home?",
+          "options": [
+            "Before breakfast",
+            "After lunch",
+            "In the evening"
+          ],
+          "correct": 1,
+          "why": "We left home after lunch."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-ege-audio-club",
+      "exam": "ege",
+      "block": "listening",
+      "type": "mc",
+      "title": "Joining a club",
+      "audio": "assets/audio/club.mp3",
+      "transcript": "The photography club meets on Tuesdays at four, not on Thursdays as the old poster says. You do not need your own camera: you can borrow one for the lesson. There is no fee for the first meeting. After that, each session costs eight pounds. Please arrive ten minutes early so we can show you the equipment.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "On which day does the club meet?",
+          "options": [
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+          ],
+          "correct": 0,
+          "why": "The old poster is out of date; the club meets on Tuesdays."
+        },
+        {
+          "label": "2",
+          "text": "What is free?",
+          "options": [
+            "All meetings",
+            "The first meeting",
+            "A camera to keep"
+          ],
+          "correct": 1,
+          "why": "There is no fee for the first meeting."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-ege-audio-volunteer",
+      "exam": "ege",
+      "block": "listening",
+      "type": "mc",
+      "title": "An interview with a volunteer",
+      "audio": "assets/audio/volunteer.mp3",
+      "transcript": "I joined the park volunteers because I wanted to meet new people. At first, I thought we would mostly plant trees, but our main job is to keep the footpaths clear. We meet twice a month. The work can be tiring, but I enjoy seeing the difference we make. I have not decided whether to study biology at university.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "What do the volunteers mainly do?",
+          "options": [
+            "Plant trees",
+            "Clear footpaths",
+            "Study biology"
+          ],
+          "correct": 1,
+          "why": "The main job is to keep the footpaths clear."
+        },
+        {
+          "label": "2",
+          "text": "The speaker has chosen a university subject.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "I have not decided whether to study biology."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-ege-audio-library",
+      "exam": "ege",
+      "block": "listening",
+      "type": "mc",
+      "title": "A library announcement",
+      "audio": "assets/audio/library.mp3",
+      "transcript": "The library will be closed on Monday while the heating system is repaired. All books due back on that day can be returned on Tuesday without a fine. The online catalogue will still be available. Our reading group, normally held on Monday evening, will meet on Wednesday this week. The children's storytelling session on Saturday is unchanged.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "When can Monday books be returned without a fine?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Saturday"
+          ],
+          "correct": 0,
+          "why": "Books due on Monday can be returned on Tuesday."
+        },
+        {
+          "label": "2",
+          "text": "Which event has changed day?",
+          "options": [
+            "Children’s storytelling",
+            "The reading group",
+            "A book sale"
+          ],
+          "correct": 1,
+          "why": "The reading group moves from Monday to Wednesday."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-ege-audio-course",
+      "exam": "ege",
+      "block": "listening",
+      "type": "mc",
+      "title": "Taking a course",
+      "audio": "assets/audio/course.mp3",
+      "transcript": "My friend persuaded me to try an evening cooking course. I had expected the teacher to show us difficult recipes, but she began with simple dishes. That made me feel more confident. We worked in pairs and shared the ingredients. The course lasted six weeks. I now cook for my family on Sundays, although I still ask for help with desserts.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "Why did the speaker feel more confident?",
+          "options": [
+            "The class was cancelled",
+            "They started with simple dishes",
+            "Their friend cooked everything"
+          ],
+          "correct": 1,
+          "why": "Beginning with simple dishes increased confidence."
+        },
+        {
+          "label": "2",
+          "text": "How long was the course?",
+          "options": [
+            "Four weeks",
+            "Six weeks",
+            "Eight weeks"
+          ],
+          "correct": 1,
+          "why": "The course lasted six weeks."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-ege-audio-travel",
+      "exam": "ege",
+      "block": "listening",
+      "type": "mc",
+      "title": "An unexpected journey",
+      "audio": "assets/audio/travel.mp3",
+      "transcript": "I used to take the bus to college, but a new cycle path opened near my home. I tried cycling and found that the journey took twenty minutes, ten minutes less than the bus. I still take the bus when the weather is bad. I have bought a bright jacket and always wear a helmet. My parents do not cycle, but they support my choice.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "How long did the bus journey take?",
+          "options": [
+            "Ten minutes",
+            "Twenty minutes",
+            "Thirty minutes"
+          ],
+          "correct": 2,
+          "why": "Cycling takes 20 minutes, 10 fewer than the bus: 30."
+        },
+        {
+          "label": "2",
+          "text": "The speaker cycles in all weather.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "The speaker takes the bus in bad weather."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-oge-audio-change",
+      "exam": "oge",
+      "block": "listening",
+      "type": "mc",
+      "title": "A changed plan",
+      "audio": "assets/audio/change.mp3",
+      "transcript": "We wanted to visit the castle on Friday, but it was closed for repairs. My sister suggested the museum, but I had been there before. In the end, we chose the botanical garden. It was raining in the morning, so we left home after lunch. We bought tickets online and enjoyed the warm greenhouses. Next week we may try the museum.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "Where did they finally go?",
+          "options": [
+            "The castle",
+            "The museum",
+            "The botanical garden"
+          ],
+          "correct": 2,
+          "why": "In the end, we chose the botanical garden."
+        },
+        {
+          "label": "2",
+          "text": "When did they leave home?",
+          "options": [
+            "Before breakfast",
+            "After lunch",
+            "In the evening"
+          ],
+          "correct": 1,
+          "why": "We left home after lunch."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-oge-audio-club",
+      "exam": "oge",
+      "block": "listening",
+      "type": "mc",
+      "title": "Joining a club",
+      "audio": "assets/audio/club.mp3",
+      "transcript": "The photography club meets on Tuesdays at four, not on Thursdays as the old poster says. You do not need your own camera: you can borrow one for the lesson. There is no fee for the first meeting. After that, each session costs eight pounds. Please arrive ten minutes early so we can show you the equipment.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "On which day does the club meet?",
+          "options": [
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+          ],
+          "correct": 0,
+          "why": "The old poster is out of date; the club meets on Tuesdays."
+        },
+        {
+          "label": "2",
+          "text": "What is free?",
+          "options": [
+            "All meetings",
+            "The first meeting",
+            "A camera to keep"
+          ],
+          "correct": 1,
+          "why": "There is no fee for the first meeting."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-oge-audio-volunteer",
+      "exam": "oge",
+      "block": "listening",
+      "type": "mc",
+      "title": "An interview with a volunteer",
+      "audio": "assets/audio/volunteer.mp3",
+      "transcript": "I joined the park volunteers because I wanted to meet new people. At first, I thought we would mostly plant trees, but our main job is to keep the footpaths clear. We meet twice a month. The work can be tiring, but I enjoy seeing the difference we make. I have not decided whether to study biology at university.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "What do the volunteers mainly do?",
+          "options": [
+            "Plant trees",
+            "Clear footpaths",
+            "Study biology"
+          ],
+          "correct": 1,
+          "why": "The main job is to keep the footpaths clear."
+        },
+        {
+          "label": "2",
+          "text": "The speaker has chosen a university subject.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "I have not decided whether to study biology."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-oge-audio-library",
+      "exam": "oge",
+      "block": "listening",
+      "type": "mc",
+      "title": "A library announcement",
+      "audio": "assets/audio/library.mp3",
+      "transcript": "The library will be closed on Monday while the heating system is repaired. All books due back on that day can be returned on Tuesday without a fine. The online catalogue will still be available. Our reading group, normally held on Monday evening, will meet on Wednesday this week. The children's storytelling session on Saturday is unchanged.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "When can Monday books be returned without a fine?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Saturday"
+          ],
+          "correct": 0,
+          "why": "Books due on Monday can be returned on Tuesday."
+        },
+        {
+          "label": "2",
+          "text": "Which event has changed day?",
+          "options": [
+            "Children’s storytelling",
+            "The reading group",
+            "A book sale"
+          ],
+          "correct": 1,
+          "why": "The reading group moves from Monday to Wednesday."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-oge-audio-course",
+      "exam": "oge",
+      "block": "listening",
+      "type": "mc",
+      "title": "Taking a course",
+      "audio": "assets/audio/course.mp3",
+      "transcript": "My friend persuaded me to try an evening cooking course. I had expected the teacher to show us difficult recipes, but she began with simple dishes. That made me feel more confident. We worked in pairs and shared the ingredients. The course lasted six weeks. I now cook for my family on Sundays, although I still ask for help with desserts.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "Why did the speaker feel more confident?",
+          "options": [
+            "The class was cancelled",
+            "They started with simple dishes",
+            "Their friend cooked everything"
+          ],
+          "correct": 1,
+          "why": "Beginning with simple dishes increased confidence."
+        },
+        {
+          "label": "2",
+          "text": "How long was the course?",
+          "options": [
+            "Four weeks",
+            "Six weeks",
+            "Eight weeks"
+          ],
+          "correct": 1,
+          "why": "The course lasted six weeks."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "author-oge-audio-travel",
+      "exam": "oge",
+      "block": "listening",
+      "type": "mc",
+      "title": "An unexpected journey",
+      "audio": "assets/audio/travel.mp3",
+      "transcript": "I used to take the bus to college, but a new cycle path opened near my home. I tried cycling and found that the journey took twenty minutes, ten minutes less than the bus. I still take the bus when the weather is bad. I have bought a bright jacket and always wear a helmet. My parents do not cycle, but they support my choice.",
+      "questions": [
+        {
+          "label": "1",
+          "text": "How long did the bus journey take?",
+          "options": [
+            "Ten minutes",
+            "Twenty minutes",
+            "Thirty minutes"
+          ],
+          "correct": 2,
+          "why": "Cycling takes 20 minutes, 10 fewer than the bus: 30."
+        },
+        {
+          "label": "2",
+          "text": "The speaker cycles in all weather.",
+          "options": [
+            "True",
+            "False",
+            "Not stated"
+          ],
+          "correct": 1,
+          "why": "The speaker takes the bus in bad weather."
+        }
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "micro": true,
+      "synthetic": true
+    },
+    {
+      "id": "fipi-ege-audio-1",
+      "exam": "ege",
+      "block": "listening",
+      "type": "match",
+      "title": "Classroom projects · № 1",
+      "text": "Прослушайте задание 1 в начале официальной записи. Сопоставьте говорящих A–F с утверждениями 1–7. Одно утверждение лишнее. Запись содержит весь раздел аудирования; после задания 1 можно остановить её.",
+      "options": [
+        "Classroom projects can cause some conflicts in a group.",
+        "Classroom projects have several advantages.",
+        "It’s bad when people don’t do their share for a project.",
+        "Teachers enjoy classroom projects more than students.",
+        "Classroom projects can be inconvenient for students.",
+        "Classroom projects should not be the same all the time.",
+        "Classroom projects encourage collaboration."
+      ],
+      "audio": "assets/audio/fipi-ege-written.mp3",
+      "key": "763152",
+      "max": 2,
+      "number": 1,
+      "why": "Ключ официальной демоверсии: A–F → 763152. За каждую ошибочную позицию вычитается 1 из 2, минимум 0.",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "fipi-ege-audio-2",
+      "exam": "ege",
+      "block": "listening",
+      "type": "match",
+      "title": "Summer plans · № 2",
+      "text": "В официальной записи найдите задание 2 — диалог Бена и Софи. Для утверждений A–G запишите: 1 True, 2 False, 3 Not stated.\n\nA. Ben worked hard during the academic year.\nB. Ben and Sophie study at the same school.\nC. Sophie wants to be a school teacher.\nD. Sophie has already found a summer job.\nE. Ben is thinking of a career in medicine.\nF. Ben disapproves of Sophie’s summer plans.\nG. Sophie hasn’t had a rest by the sea for some time.",
+      "options": [
+        "True",
+        "False",
+        "Not stated"
+      ],
+      "audio": "assets/audio/fipi-ege-written.mp3",
+      "key": "3332121",
+      "max": 3,
+      "number": 2,
+      "why": "Ключ демоверсии A–G: 3332121. Отсутствие информации о факте — Not stated, а не False.",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "fipi-oge-audio-5",
+      "exam": "oge",
+      "block": "listening",
+      "type": "match",
+      "title": "Films and cinemas · № 5",
+      "text": "В официальной записи найдите задание 5: пять говорящих A–E. Подберите рубрику 1–6; одна лишняя.",
+      "options": [
+        "I avoid these kinds of films",
+        "I choose wisely",
+        "I dislike cinemas",
+        "I find cinemas expensive",
+        "I learn from these films",
+        "I recommend this film"
+      ],
+      "audio": "assets/audio/fipi-oge-written.mp3",
+      "key": "32614",
+      "max": 5,
+      "number": 5,
+      "why": "Ключ демоверсии A–E: 32614. Один неверный элемент — минус 1 балл из 5.",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-ege-reading-links",
+      "exam": "ege",
+      "block": "reading",
+      "type": "match",
+      "title": "A quieter school · смысловые связи",
+      "text": "Our school used to have a noisy corridor beside the library. A group of pupils asked whether anything could be done, A ___. Before suggesting a solution, they spent a week observing how the space was used. They discovered that most noise came from students waiting for clubs, B ___.\n\nThe pupils proposed moving the waiting area to an empty classroom. However, the room was already used for music lessons, C ___. The caretaker suggested a small entrance hall instead. It was bright and easy to reach, D ___.\n\nThe group added chairs and a noticeboard with club timetables. They asked users to speak quietly and keep the entrance clear. After a month they collected comments, E ___. Most students welcomed the change. The library became calmer, F ___. The group learned that a small improvement could begin with a careful question.",
+      "options": [
+        "so their first plan had to change",
+        "which showed that the new arrangement was useful",
+        "because several activities started at the same time",
+        "although they did not expect an immediate answer",
+        "and readers could concentrate more easily",
+        "whose instruments were all extremely expensive",
+        "so people would not have to wait in the corridor"
+      ],
+      "key": "431725",
+      "max": 2,
+      "number": 11,
+      "why": "A — уступка although (4); B — причина because (3); C — следствие занятости помещения (1); D — решение проблемы ожидания (7); E — which относится к comments (2); F — результат для читателей (5). Вариант 6 лишний.",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "shortened": true
+    },
+    {
+      "id": "fipi-oge-audio-6",
+      "exam": "oge",
+      "block": "listening",
+      "type": "gaps",
+      "title": "Interview · № 6–11",
+      "context": "В полной официальной записи найдите интервью задания 6–11. Впишите одно слово без артикля из записи; числа записывайте буквами.",
+      "audio": "assets/audio/fipi-oge-written.mp3",
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "questions": [
+        {
+          "label": "6",
+          "text": "Current job ___",
+          "base": "",
+          "answers": [
+            "librarian"
+          ],
+          "why": "Ключ официальной демоверсии: librarian"
+        },
+        {
+          "label": "7",
+          "text": "Number of jobs he/she has done ___",
+          "base": "",
+          "answers": [
+            "twelve"
+          ],
+          "why": "Ключ официальной демоверсии: twelve"
+        },
+        {
+          "label": "8",
+          "text": "The foreign language he/she speaks ___",
+          "base": "",
+          "answers": [
+            "Chinese"
+          ],
+          "why": "Ключ официальной демоверсии: Chinese"
+        },
+        {
+          "label": "9",
+          "text": "Hobby ___",
+          "base": "",
+          "answers": [
+            "travelling",
+            "traveling"
+          ],
+          "why": "Ключ официальной демоверсии: travelling / traveling"
+        },
+        {
+          "label": "10",
+          "text": "The musical instrument he/she plays ___",
+          "base": "",
+          "answers": [
+            "piano"
+          ],
+          "why": "Ключ официальной демоверсии: piano"
+        },
+        {
+          "label": "11",
+          "text": "Regular sports activity ___",
+          "base": "",
+          "answers": [
+            "jogging"
+          ],
+          "why": "Ключ официальной демоверсии: jogging"
+        }
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "id": "fipi-oge-read",
+      "exam": "oge",
+      "task": 1,
+      "title": "Чтение вслух · демоверсия",
+      "text": "Bicycles or bikes are an important means of transportation in many parts of the world. The first bicycles turned up in Europe in the first half of the 19th century but the word “bicycle” only appeared later, in 1868. There are more bicycles in the world than cars. A lot of people have realized that cycling is an easy way to get around and a great way to cut down on pollution. More and more cities have special places where people can borrow a bike and ride around the city. Over the past few years, a bicycle infrastructure has been created in Moscow. Cycling in the centre of Moscow in summer is one of the most pleasant and quickest ways of seeing the city.",
+      "prep": 90,
+      "seconds": 120,
+      "parts": [],
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-1",
+      "images": []
+    },
+    {
+      "id": "fipi-ege-read",
+      "exam": "ege",
+      "task": 1,
+      "title": "Чтение вслух · демоверсия",
+      "text": "Land pollution has its effect on people, animals and plants. That is why it is very important to stop land pollution as quickly as possible. Fortunately, there are several possible solutions to the land pollution problem, including conservation. For instance, we can leave old trees in a forest to naturally die instead of cutting them down. We must also process waste and dispose of it in the safest manner possible not to create huge landfills with tons of plastic. We should stop using so much plastic. Even if you stop buying plastic shopping bags each time you go shopping for food, and get a cloth bag instead, this simple step will make a difference. Instead of throwing something away, think about a way to reuse or recycle it. You can turn to organic gardening practices as well and stop using dangerous chemicals in your garden. Fighting land pollution needs everyone’s effort.",
+      "prep": 90,
+      "seconds": 90,
+      "parts": [],
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-1",
+      "images": []
+    },
+    {
+      "id": "fipi-ege-questions",
+      "exam": "ege",
+      "task": 2,
+      "title": "Cooking masterclass",
+      "text": "You are considering going to a cooking masterclass. Ask four direct questions about the following points.",
+      "prep": 90,
+      "seconds": 20,
+      "parts": [
+        "kinds of dishes",
+        "number of people in the group",
+        "the duration of the masterclass",
+        "tuition fee"
+      ],
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-2",
+      "images": []
+    },
+    {
+      "id": "fipi-ege-interview",
+      "exam": "ege",
+      "task": 3,
+      "title": "Online shopping",
+      "text": "Give full answers to the five interview questions (2–3 communicatively meaningful phrases per answer).",
+      "prep": 0,
+      "seconds": 40,
+      "parts": [
+        "Have you ever bought anything online?",
+        "Why do you think some people enjoy shopping online?",
+        "What are some of the disadvantages of shopping online?",
+        "Do you think it is a good idea to buy food online? Why or why not?",
+        "What would you recommend to a teenager who is going to buy some clothes online?"
+      ],
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/aya_11_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-3",
+      "images": []
+    },
+    {
+      "id": "fipi-oge-survey",
+      "exam": "oge",
+      "task": 2,
+      "title": "Homework",
+      "text": "Answer the six questions of the telephone survey.",
+      "prep": 0,
+      "seconds": 40,
+      "parts": [
+        "How many lessons do you usually have?",
+        "What do you usually do after lessons?",
+        "How much time do you need to do your homework?",
+        "Who helps you to do your homework?",
+        "Do you use the Internet when you do your homework? What for?",
+        "What would you recommend to a student who wants to spend less time on his or her homework?"
+      ],
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-2",
+      "images": []
+    },
+    {
+      "id": "fipi-oge-monologue",
+      "exam": "oge",
+      "task": 3,
+      "title": "Your school",
+      "text": "Give a connected talk about your school (10–12 phrases).",
+      "prep": 90,
+      "seconds": 120,
+      "parts": [
+        "what your typical school day is like",
+        "what your favourite subject is, and why",
+        "what you like most about your school",
+        "what your attitude to your school life is"
+      ],
+      "source": {
+        "kind": "official-demo",
+        "label": "ФИПИ · демоверсия 2027",
+        "url": "https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2027/aya_9_2027.zip",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-3",
+      "images": []
+    },
+    {
+      "id": "author-oge-read",
+      "exam": "oge",
+      "task": 1,
+      "title": "Urban gardens",
+      "text": "Urban gardens are becoming common in many cities. People grow vegetables on roofs, balconies and small pieces of unused land. These gardens can provide fresh food, but their value is not limited to the harvest. Neighbours who rarely spoke before begin to work together. Children discover how plants develop and why water matters. Some gardens also collect rainwater and create safe places for insects. Starting a garden requires careful planning. People need to check the quality of the soil, find suitable plants and agree on a watering schedule. Not every attempt succeeds immediately, especially when the weather is unusual. However, sharing the work helps the group solve problems. Even a small garden can change the way people feel about the place where they live.",
+      "prep": 90,
+      "seconds": 120,
+      "parts": [],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-1",
+      "images": []
+    },
+    {
+      "id": "author-ege-read",
+      "exam": "ege",
+      "task": 1,
+      "title": "Urban gardens",
+      "text": "Urban gardens are becoming common in many cities. People grow vegetables on roofs, balconies and small pieces of unused land. These gardens can provide fresh food, but their value is not limited to the harvest. Neighbours who rarely spoke before begin to work together. Children discover how plants develop and why water matters. Some gardens also collect rainwater and create safe places for insects. Starting a garden requires careful planning. People need to check the quality of the soil, find suitable plants and agree on a watering schedule. Not every attempt succeeds immediately, especially when the weather is unusual. However, sharing the work helps the group solve problems. Even a small garden can change the way people feel about the place where they live.",
+      "prep": 90,
+      "seconds": 90,
+      "parts": [],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-1",
+      "images": []
+    },
+    {
+      "id": "author-oge-free-time",
+      "exam": "oge",
+      "task": 2,
+      "title": "Free time",
+      "text": "Answer each question fully. Keep to the question and explain your ideas.",
+      "prep": 0,
+      "seconds": 40,
+      "parts": [
+        "What do you usually do after school?",
+        "What hobby would you like to try, and why?",
+        "How do your friends spend their free time?",
+        "Why is it important to have time to relax?",
+        "What would you recommend to someone looking for a new hobby?",
+        "Do you prefer indoor or outdoor activities, and why?"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-2",
+      "images": []
+    },
+    {
+      "id": "author-ege-free-time",
+      "exam": "ege",
+      "task": 3,
+      "title": "Free time",
+      "text": "Answer each question fully. Keep to the question and explain your ideas.",
+      "prep": 0,
+      "seconds": 40,
+      "parts": [
+        "What do you usually do after school?",
+        "What hobby would you like to try, and why?",
+        "How do your friends spend their free time?",
+        "Why is it important to have time to relax?",
+        "What would you recommend to someone looking for a new hobby?"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-3",
+      "images": []
+    },
+    {
+      "id": "author-oge-the-environment",
+      "exam": "oge",
+      "task": 2,
+      "title": "The environment",
+      "text": "Answer each question fully. Keep to the question and explain your ideas.",
+      "prep": 0,
+      "seconds": 40,
+      "parts": [
+        "What do you do to save energy at home?",
+        "How can schools reduce waste?",
+        "Why do some people prefer public transport?",
+        "What environmental problem concerns you most?",
+        "What would you recommend to someone who wants to help their town?",
+        "Do you think young people can make a difference, and why?"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-2",
+      "images": []
+    },
+    {
+      "id": "author-ege-the-environment",
+      "exam": "ege",
+      "task": 3,
+      "title": "The environment",
+      "text": "Answer each question fully. Keep to the question and explain your ideas.",
+      "prep": 0,
+      "seconds": 40,
+      "parts": [
+        "What do you do to save energy at home?",
+        "How can schools reduce waste?",
+        "Why do some people prefer public transport?",
+        "What environmental problem concerns you most?",
+        "What would you recommend to someone who wants to help their town?"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-3",
+      "images": []
+    },
+    {
+      "id": "author-ege-club",
+      "exam": "ege",
+      "task": 2,
+      "title": "A new language club",
+      "text": "Ask four direct questions about the new language club.",
+      "prep": 90,
+      "seconds": 20,
+      "parts": [
+        "start date",
+        "location",
+        "price of one lesson",
+        "group size"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-2",
+      "images": []
+    },
+    {
+      "id": "author-oge-reading",
+      "exam": "oge",
+      "task": 3,
+      "title": "Reading",
+      "text": "Give a connected talk (10–12 phrases). Cover all four points.",
+      "prep": 90,
+      "seconds": 120,
+      "parts": [
+        "why people read books",
+        "what kinds of books you enjoy",
+        "where you prefer reading",
+        "what your attitude to reading is"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-3",
+      "images": []
+    },
+    {
+      "id": "author-oge-healthy-habits",
+      "exam": "oge",
+      "task": 3,
+      "title": "Healthy habits",
+      "text": "Give a connected talk (10–12 phrases). Cover all four points.",
+      "prep": 90,
+      "seconds": 120,
+      "parts": [
+        "what people can do to stay healthy",
+        "what physical activity you enjoy and why",
+        "how your school encourages healthy habits",
+        "what your attitude to a healthy lifestyle is"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "oge-speaking-3",
+      "images": []
+    },
+    {
+      "id": "author-ege-project",
+      "exam": "ege",
+      "task": 4,
+      "title": "Learning alone or together",
+      "text": "You and your friend are doing a project “Learning alone or together”. Leave a voice message explaining your choice of illustrations and sharing ideas (12–15 phrases). The illustrations below are educational drawings, not exam photographs.",
+      "prep": 150,
+      "seconds": 180,
+      "parts": [
+        "explain your choice of illustrations by briefly describing them and noting differences",
+        "mention 1–2 advantages of both ways of learning",
+        "mention 1–2 disadvantages of both ways of learning",
+        "say which way of learning you prefer and explain why"
+      ],
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      },
+      "rubric": "ege-speaking-4",
+      "images": [
+        "assets/learning-alone.svg",
+        "assets/learning-together.svg"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "author-oge-email-0",
+      "exam": "oge",
+      "task": 35,
+      "title": "School clubs",
+      "text": "From: Alex\nSubject: School clubs\n\n…What school club would you like to join? What activities do you enjoy doing with friends? Do you prefer learning something new alone or in a group, and why?\n\nWrite an email to Alex. Answer the three questions.",
+      "rubric": "oge-writing-35",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-oge-email-1",
+      "exam": "oge",
+      "task": 35,
+      "title": "Weekend plans",
+      "text": "From: Alex\nSubject: Weekend plans\n\n…Where do you usually go at weekends? What do you like doing outdoors? Would you prefer a quiet weekend or an active one, and why?\n\nWrite an email to Alex. Answer the three questions.",
+      "rubric": "oge-writing-35",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-oge-email-2",
+      "exam": "oge",
+      "task": 35,
+      "title": "Books and films",
+      "text": "From: Alex\nSubject: Books and films\n\n…What kind of stories do you enjoy? Do you prefer books or films, and why? How do you choose what to read next?\n\nWrite an email to Alex. Answer the three questions.",
+      "rubric": "oge-writing-35",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-ege-email-0",
+      "exam": "ege",
+      "task": 37,
+      "title": "School clubs",
+      "text": "From: Alex\nSubject: School clubs\n\n…What school club would you like to join? What activities do you enjoy doing with friends? Do you prefer learning something new alone or in a group, and why?\n\nWrite an email to Alex. Answer the three questions. Ask three questions about the new drama club.",
+      "rubric": "ege-writing-37",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-ege-email-1",
+      "exam": "ege",
+      "task": 37,
+      "title": "Weekend plans",
+      "text": "From: Alex\nSubject: Weekend plans\n\n…Where do you usually go at weekends? What do you like doing outdoors? Would you prefer a quiet weekend or an active one, and why?\n\nWrite an email to Alex. Answer the three questions. Ask three questions about the upcoming school trip.",
+      "rubric": "ege-writing-37",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-ege-email-2",
+      "exam": "ege",
+      "task": 37,
+      "title": "Books and films",
+      "text": "From: Alex\nSubject: Books and films\n\n…What kind of stories do you enjoy? Do you prefer books or films, and why? How do you choose what to read next?\n\nWrite an email to Alex. Answer the three questions. Ask three questions about the book festival.",
+      "rubric": "ege-writing-37",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    },
+    {
+      "id": "author-ege-38-reading",
+      "exam": "ege",
+      "task": 38,
+      "title": "Choosing books",
+      "text": "Imagine that you are doing a project on what helps teenagers in Zetland choose a book. You have found a survey (see table). Comment on the data and give your opinion. Write 200–250 words.\n\nMake an opening statement on the subject. Select and report 2–3 facts. Make 1–2 comparisons and give your comments. Outline a problem that can arise when choosing a book and suggest a solution. Conclude by giving and explaining your opinion on the importance of reading for teenagers.",
+      "table": [
+        [
+          "Friends’ recommendations",
+          "35%"
+        ],
+        [
+          "Online reviews",
+          "25%"
+        ],
+        [
+          "The author’s name",
+          "20%"
+        ],
+        [
+          "The cover",
+          "12%"
+        ],
+        [
+          "The price",
+          "8%"
+        ]
+      ],
+      "rubric": "ege-writing-38",
+      "source": {
+        "kind": "author",
+        "label": "Авторский тренировочный аналог",
+        "url": "",
+        "reviewed": "2026-11-04"
+      }
+    }
+  ]
+}

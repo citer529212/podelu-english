@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "podelu-english-assessor",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-11-04",
+  "workers_dev": true,
+  "vars": {
+    "ALLOWED_ORIGINS": "https://citer529212.github.io",
+    "TEXT_MODEL": "gpt-4.1-mini",
+    "AUDIO_MODEL": "gpt-audio-1.5",
+    "MAX_DAILY_REQUESTS": "30",
+    "MAX_PER_VISITOR": "5"
+  },
+  "durable_objects": {"bindings": [{"name": "QUOTA", "class_name": "Quota"}]},
+  "migrations": [{"tag": "v1", "new_sqlite_classes": ["Quota"]}],
+  "observability": {"enabled": false}
+}
